@@ -9,6 +9,26 @@ The API documentation is available through Swagger UI at:
 http://localhost:5080/swagger
 ```
 
+## Strucutre
+
+<pre>
+├── DOO/
+│   ├── Java/
+│   │   └── CIUP/ 
+│   │       └── src/
+│   │           ├── CIUP.java
+│   │           ├── FactoryCIUP.java
+│   │           ├── Maison.java
+│   │           ├── MaisonInternationale.java
+│   │           ├── Etudiant.java
+│   │           ├── Evenement.java
+│   │           └── Service.java
+│   └── UML/
+│       └── CIUP.vpp
+├── CIUP.zip 
+└── README.md
+</pre>
+
 ## Features
 The API provides endpoints for managing:
 
